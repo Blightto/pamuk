@@ -4,7 +4,6 @@ body{
 }
 
 main{
-    max-width: 70%;
     margin: auto;
 }
 
@@ -16,4 +15,6 @@ h1{
 img{
     display: block;
     margin: auto;
+    max-width: 100%
 }
+
